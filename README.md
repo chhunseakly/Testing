@@ -1,6 +1,3 @@
-# Testing
-School Work
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,7 +25,7 @@ School Work
       <li><strong>Country:</strong> Cambodia</li>
       <li><strong>Major:</strong> Information Technology — Year 2</li>
       <li><strong>Current Job:</strong> Media / Content</li>
-      <li><strong>Relationship:</strong> Taken</li>
+      <li><strong>Relationship:</strong> Ma Saw Kalayar, Ciela, Aria, Hyoko, Arnya, 李春花</li>
     </ul>
   </div>
 
